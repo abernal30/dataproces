@@ -6,4 +6,4 @@ To install the development version, you need to clone the repository and build f
 remotes::install_github("abernal30/dataclean")
 
 # or
-devtools::install_github("joshuaulrich/quantmod")
+devtools::install_github("abernal30/dataclean")
